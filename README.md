@@ -5,4 +5,5 @@ DOMAIN: C++ PROGRAMMING
 DURATION: 20th june-5th august
 
 Overview of the project
-Project :program for interconversion of temperature in celscius, kelvin and temprature 
+Project :program for interconversion of temperature in celscius, kelvin and temprature
+Technology used: C++
